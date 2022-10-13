@@ -18,6 +18,9 @@
   This example code is in the public domain.
 
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/InputPullupSerial
+
+  Awal yanng bagus. Silakan dilanjutkan.
+
 */
 
 void setup() {
